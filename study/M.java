@@ -1,5 +1,5 @@
 // Online Java Compiler
-// Use this editor to write, compile and run your Java code online
+// Its a 12 times table better for learning organize data using spaces, formats, matrix styles
 
 public class M {
     public static void main(String[] args) {
