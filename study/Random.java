@@ -2,7 +2,19 @@
 
                             Online Java Compiler.
                 Code, Compile, Run and Debug java program online.
-Write your code in this editor and press "Run" button to execute it.
+
+
+Learn how to Get random values and organize them
+Learn how to use Ternary operator 
+Learn how to use command line arguments ( means input something when you execute the code)
+
+Example: To run this below code in git bash. you have to do 
+javac Random.java
+java Random 244  
+-(here 244 considered command line arguments)
+
+
+
 
 *******************************************************************************/
 
